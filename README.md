@@ -10,4 +10,4 @@ If you ever want to collaborate with me on some Game developement project or rea
 You can contact me at zerokunbusiness@gmail.com  
   
 ### My Github stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z3R0kun)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroKun265)](https://github.com/anuraghazra/github-readme-stats)
